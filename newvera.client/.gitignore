@@ -40,3 +40,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+
+# Custom folders to ignore
+/newvera/newvera.client/  # <-- Add this line
+/.vscode/                # <-- (Optional, already covered by `.vscode/*`)
